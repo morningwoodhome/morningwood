@@ -1,0 +1,2 @@
+# morningwood
+Temporary static site
